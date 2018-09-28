@@ -7,9 +7,9 @@ Developed on Google's [Web Starter Kit](https://developers.google.com/web/tools/
 [Web Fundamentals](https://developers.google.com/web/fundamentals/) are available to help you to stay productive & follow the best practices outlined by Google.
 
 ## Quickstart
-HTML starting points, from which you can choose:
 
-Make sure NPM and Yarn anre and installed, then use yarn install
+Make sure NPM and Yarn and installed, then use yarn install
+Instrauctions for browsing will given on the CLI
 
 
 ## Web Performance
