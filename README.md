@@ -1,4 +1,4 @@
-# Clash Royale Data Handler (Build on Google)
+# Clash Royale Data Handler (Built on Webkit by Google)
 
 ## Overview
 
@@ -9,7 +9,7 @@ Developed on Google's [Web Starter Kit](https://developers.google.com/web/tools/
 ## Quickstart
 
 Make sure NPM and Yarn and installed, then use yarn install
-Instrauctions for browsing will given on the CLI
+Instractions for browsing will given on the CLI
 
 
 ## Web Performance
@@ -30,13 +30,3 @@ At present, we officially aim to support the last two versions of the following 
 ## Troubleshooting
 
 If you find yourself running into issues during installation or running the tools, please check our Discord and Google's [Troubleshooting](https://github.com/google/web-starter-kit/wiki/Troubleshooting) guide and then open an [issue](https://github.com/ramseymcgrath/ClashRoyaleDataService/issues). We would be happy to discuss how they can be solved.
-
-## Docs and Recipes
-
-- [File Appendix](https://github.com/google/web-starter-kit/blob/master/docs/file-appendix.md) - What do the different files here do?
-- [Deployment guides](https://github.com/google/web-starter-kit/blob/master/docs/deploy.md) - available for Firebase, Google App Engine and other services.
-
-## License
-
-Apache 2.0  
-Copyright 2015 Google Inc
