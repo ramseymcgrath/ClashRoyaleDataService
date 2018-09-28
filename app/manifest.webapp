@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
-  "name": "Web Starter Kit",
+  "name": "Clash Royale Data Services",
   "launch_path": "/index.html",
   "description": "A front-end template that helps you build fast, modern mobile web apps.",
   "icons": {
     "128": "/images/touch/icon-128x128.png"
   },
   "developer": {
-    "name": "",
-    "url": ""
+    "name": "Ramsey McGrath",
+    "url": "ClashRoyale.MemeServices.com"
   },
   "installs_allowed_from": [
     "*"
@@ -18,8 +18,8 @@
   },
   "locales": {
     "en": {
-      "name": "Web Starter Kit",
-      "description": "A front-end template that helps you build fast, modern mobile web apps."
+      "name": "Clash Royale Data Services",
+      "description": "Human interface for the Clash Royale backend build on Google and hosted by MemeServices"
     }
   }
 }
